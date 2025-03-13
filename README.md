@@ -1,4 +1,4 @@
-# RBS-Calc  
+# RBS-Calculator
 
 [RBS-Calc](https://pngrtz.com/work/reviews/rbs-calc/) is a simple web-based calculator built with HTML, CSS, and JavaScript. It was created as a school project for a friend.  
 
